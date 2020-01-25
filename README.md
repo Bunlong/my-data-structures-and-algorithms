@@ -10,7 +10,7 @@ Even though you don't need to write your own array, linked list, or hashtable, g
 
 > Using the right data structure can drastically improve the performance of an algorithm.
 
-we should all learn data structures and algorithms in our schools and colleges, but it's rarely ever covered. Most of the programmers, including myself, only get introduced to a data structure in our computer science courses, but we didn't really learn the real-world importance of them, and that's why we didn't understand them better.
+We should all learn data structures and algorithms in our schools and colleges, but it's rarely ever covered. Most of the programmers, including myself, only get introduced to a data structure in our computer science courses, but we didn't really learn the real-world importance of them, and that's why we didn't understand them better.
 
 For us, they are just the algorithms and data structures e.g. some concept, not a tool that you can use to write good programs. We didn't know that Facebook would use them to store our details or that Google would use them to store web pages and link to search queries.
 
